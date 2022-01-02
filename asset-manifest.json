@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/sin-wave/Resume/static/css/main.ce98d9f0.chunk.css",
+    "main.js": "/sin-wave/Resume/static/js/main.7315485c.chunk.js",
+    "main.js.map": "/sin-wave/Resume/static/js/main.7315485c.chunk.js.map",
+    "runtime-main.js": "/sin-wave/Resume/static/js/runtime-main.f0e0b0ec.js",
+    "runtime-main.js.map": "/sin-wave/Resume/static/js/runtime-main.f0e0b0ec.js.map",
+    "static/js/2.37a4ac84.chunk.js": "/sin-wave/Resume/static/js/2.37a4ac84.chunk.js",
+    "static/js/2.37a4ac84.chunk.js.map": "/sin-wave/Resume/static/js/2.37a4ac84.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/sin-wave/Resume/static/css/3.df879eac.chunk.css",
+    "static/js/3.8cba4116.chunk.js": "/sin-wave/Resume/static/js/3.8cba4116.chunk.js",
+    "static/js/3.8cba4116.chunk.js.map": "/sin-wave/Resume/static/js/3.8cba4116.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/sin-wave/Resume/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.76150052.chunk.js": "/sin-wave/Resume/static/js/4.76150052.chunk.js",
+    "static/js/4.76150052.chunk.js.map": "/sin-wave/Resume/static/js/4.76150052.chunk.js.map",
+    "index.html": "/sin-wave/Resume/index.html",
+    "precache-manifest.c24fd2803392e412a5e86a6864f756f9.js": "/sin-wave/Resume/precache-manifest.c24fd2803392e412a5e86a6864f756f9.js",
+    "service-worker.js": "/sin-wave/Resume/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/sin-wave/Resume/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/sin-wave/Resume/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.ce98d9f0.chunk.css.map": "/sin-wave/Resume/static/css/main.ce98d9f0.chunk.css.map",
+    "static/js/2.37a4ac84.chunk.js.LICENSE.txt": "/sin-wave/Resume/static/js/2.37a4ac84.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sin-wave/Resume/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/SMIT.png": "/sin-wave/Resume/static/media/SMIT.82a34417.png",
+    "static/media/Sigma.jfif": "/sin-wave/Resume/static/media/Sigma.65f98b95.jfif",
+    "static/media/TCS.jpg": "/sin-wave/Resume/static/media/TCS.ce85025b.jpg",
+    "static/media/al.jfif": "/sin-wave/Resume/static/media/al.ae9ed650.jfif",
+    "static/media/contactMailDark.svg": "/sin-wave/Resume/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/sin-wave/Resume/static/media/developerActivity.59389695.svg",
+    "static/media/hc.jfif": "/sin-wave/Resume/static/media/hc.cb7f8530.jfif",
+    "static/media/manOnTable.svg": "/sin-wave/Resume/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/sin-wave/Resume/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/sin-wave/Resume/static/media/talksCardBack.13780cdd.svg",
+    "static/media/vedantu.jfif": "/sin-wave/Resume/static/media/vedantu.e89aba17.jfif",
+    "static/media/vizag.png": "/sin-wave/Resume/static/media/vizag.6a4400c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0e0b0ec.js",
+    "static/js/2.37a4ac84.chunk.js",
+    "static/css/main.ce98d9f0.chunk.css",
+    "static/js/main.7315485c.chunk.js"
+  ]
+}
